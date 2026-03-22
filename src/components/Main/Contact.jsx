@@ -63,7 +63,7 @@ const Contact = () => (
                     Telegram
                 </div>
             </a>
-            <a href="https://www.instagram.com/mr__shxtty/" target="_blank" rel="noopener noreferrer" data-aos="zoom-in">
+            <a href="https://www.instagram.com/prasidhpshetty/" target="_blank" rel="noopener noreferrer" data-aos="zoom-in">
                 <div className="layer">
                     <span></span>
                     <span></span>
@@ -111,7 +111,7 @@ const Contact = () => (
                     GitHub
                 </div>
             </a>
-            <a href="https://x.com/ShettyPrasidh7" target="_blank" rel="noopener noreferrer" data-aos="zoom-in">
+            <a href="https://x.com/prasidhpshetty" target="_blank" rel="noopener noreferrer" data-aos="zoom-in">
                 <div className="layer">
                     <span></span>
                     <span></span>

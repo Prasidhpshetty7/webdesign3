@@ -37,8 +37,8 @@ const Content = () => (
                 <div className="redes-sociales">
                     <a href="https://www.linkedin.com/in/prasidh-shetty7/" target="_blank" rel="noopener noreferrer" data-aos="fade-up" data-aos-delay="1200"><i className="fab fa-linkedin"></i></a>
                     <a href="https://github.com/Prasidhpshetty7" target="_blank" rel="noopener noreferrer" data-aos="fade-up" data-aos-delay="1400"><i className="fab fa-github"></i></a>
-                    <a href="https://www.instagram.com/mr__shxtty/" target="_blank" rel="noopener noreferrer" data-aos="fade-up" data-aos-delay="1600"><i className="fab fa-instagram"></i></a>
-                    <a href="https://x.com/ShettyPrasidh7" target="_blank" rel="noopener noreferrer" data-aos="fade-up" data-aos-delay="1800"><i className="fab fa-twitter"></i></a>
+                    <a href="https://www.instagram.com/prasidhpshetty/" target="_blank" rel="noopener noreferrer" data-aos="fade-up" data-aos-delay="1600"><i className="fab fa-instagram"></i></a>
+                    <a href="https://x.com/prasidhpshetty" target="_blank" rel="noopener noreferrer" data-aos="fade-up" data-aos-delay="1800"><i className="fab fa-twitter"></i></a>
                 </div>
                 <div className="wrapper">
                     <a className="button" href="https://www.linkedin.com/in/prasidh-shetty7/" target="_blank" rel="noopener noreferrer" data-aos="fade-up" data-aos-delay="1200">
@@ -53,13 +53,13 @@ const Content = () => (
                         </div>
                         <span>Github</span>
                     </a>
-                    <a className="button" href="https://www.instagram.com/mr__shxtty/" target="_blank" rel="noopener noreferrer" data-aos="fade-up" data-aos-delay="1600">
+                    <a className="button" href="https://www.instagram.com/prasidhpshetty/" target="_blank" rel="noopener noreferrer" data-aos="fade-up" data-aos-delay="1600">
                         <div className="icon">
                             <i className="fab fa-instagram"></i>
                         </div>
                         <span>Instagram</span>
                     </a>
-                    <a className="button" href="https://x.com/ShettyPrasidh7" target="_blank" rel="noopener noreferrer" data-aos="fade-up" data-aos-delay="1800">
+                    <a className="button" href="https://x.com/prasidhpshetty" target="_blank" rel="noopener noreferrer" data-aos="fade-up" data-aos-delay="1800">
                         <div className="icon">
                             <i className="fab fa-twitter"></i>
                         </div>
